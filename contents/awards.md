@@ -1,9 +1,11 @@
-- First-prize Academic Scholarship, 2023.
 
-- Freshman Academic Scholarship, 2022.
+只是写作App是一款极简风格的纯文本写作应用！
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 极简风
 
-- First-prize Enterprise Scholarship, 2021.
+- 绝不丢失
 
-- First-prize Academic Scholarship, 2019.
+- 急速启动
+
+- 本地优先+云端备份
+

@@ -1,16 +1,11 @@
 
+知拾笔记是一个用于收集、整理和编辑信息流的一站式笔记仓库，支持多种笔记类型，支持多维度笔记管理，助力您打造自己的知识体系！
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+- 支持创建txt、markdown、minmap及网页链接等多种类型的笔记
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+- 支持分类+标签扁平化、树状图立体化切换知识架构
 
-#### Email
-sli[at]cumt.edu.cn
+- 提供随机阅读、时间线、标签、多媒体等多维度内容管理
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+- 数据自动保存，本地优先，支持多种云盘备份及同步
 
