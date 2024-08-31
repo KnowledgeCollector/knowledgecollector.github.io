@@ -1,5 +1,5 @@
 
-卡片笔记App是一款支持自定义模板的收纳类型的笔记应用!
+[卡片笔记App](https://github.com/KnowledgeCollector/CardNote/releases)是一款支持自定义模板的收纳类型的笔记应用!
 
 - 收纳类型笔记
 
