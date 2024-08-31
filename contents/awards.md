@@ -1,5 +1,5 @@
 
-只是写作App是一款极简风格的纯文本写作应用！
+[只是写作](https://github.com/KnowledgeCollector/OnlyWrite/releases)是一款极简风格的纯文本写作应用！
 
 - 极简风
 
